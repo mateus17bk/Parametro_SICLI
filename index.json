@@ -1,1 +1,134 @@
-
+{
+    "carteiras": [
+        {
+            "tipo": "encarteirado",
+            "codigos": [
+                {
+                    "letra": "GC",
+                    "intervalo": [
+                        {
+                            "inicio": 2,
+                            "fim": 39
+                        },
+                        {
+                            "inicio": 76,
+                            "fim": 85
+                        },
+                        {
+                            "inicio": 98,
+                            "fim": 98
+                        }
+                    ]
+                },
+                {
+                    "letra": "GR",
+                    "intervalo": [
+                        {
+                            "inicio": 2,
+                            "fim": 39
+                        },
+                        {
+                            "inicio": 76,
+                            "fim": 85
+                        },
+                        {
+                            "inicio": 98,
+                            "fim": 98
+                        }
+                    ]
+                },
+                {
+                    "letra": "FX",
+                    "intervalo": [
+                        {
+                            "inicio": 1,
+                            "fim": 98
+                        }
+                    ]
+                },
+                {
+                    "letra": "EF",
+                    "intervalo": [
+                        {
+                            "inicio": 2,
+                            "fim": 90
+                        },
+                        {
+                            "inicio": 94,
+                            "fim": 98
+                        }
+                    ]
+                },
+                {
+                    "letra": "EX",
+                    "intervalo": [
+                        {
+                            "inicio": 2,
+                            "fim": 90
+                        },
+                        {
+                            "inicio": 94,
+                            "fim": 98
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tipo": "agenciaDigital",
+            "codigos": [
+                {
+                    "letra": "GV",
+                    "intervalo": [
+                        {
+                            "inicio": 42,
+                            "fim": 75
+                        },
+                        {
+                            "inicio": 86,
+                            "fim": 90
+                        },
+                        {
+                            "inicio": 94,
+                            "fim": 98
+                        }
+                    ]
+                },
+                {
+                    "letra": "GC",
+                    "intervalo": [
+                        {
+                            "inicio": 42,
+                            "fim": 75
+                        },
+                        {
+                            "inicio": 86,
+                            "fim": 90
+                        },
+                        {
+                            "inicio": 94,
+                            "fim": 98
+                        }
+                    ]
+                },
+                {
+                    "letra": "GR",
+                    "intervalo": [
+                        {
+                            "inicio": 42,
+                            "fim": 75
+                        },
+                        {
+                            "inicio": 86,
+                            "fim": 90
+                        },
+                        {
+                            "inicio": 94,
+                            "fim": 98
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
